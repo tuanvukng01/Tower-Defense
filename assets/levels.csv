@@ -1,0 +1,6 @@
+Fileformat (one line = one level): num of enemies (int), num of waves (int), waitTime (float) between waves, enemyType1(int), enemyType2(int) etc. (refer to enemyType enum)
+2,2,5.0,0
+3,2,4.0,1
+4,3,3.0,0,1
+5,3,3.0,0,1,2
+5,4,3.0,0,1,2
